@@ -7,8 +7,12 @@
       "RelativeMoniker": "D:0:0:{540EF481-1765-422B-9D37-7D686C562E05}|BasicTutorial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{540EF481-1765-422B-9D37-7D686C562E05}|BasicTutorial.csproj|c:\\users\\abu.arefin\\onedrive - save the children international\\desktop\\git\\c-basics\\basictutorial\\enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{540EF481-1765-422B-9D37-7D686C562E05}|BasicTutorial.csproj|solutionrelative:enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{540EF481-1765-422B-9D37-7D686C562E05}|BasicTutorial.csproj|c:\\users\\abu.arefin\\onedrive - save the children international\\desktop\\git\\c-basics\\basictutorial\\annonymaslamda\\annonymasmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540EF481-1765-422B-9D37-7D686C562E05}|BasicTutorial.csproj|solutionrelative:annonymaslamda\\annonymasmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{540EF481-1765-422B-9D37-7D686C562E05}|BasicTutorial.csproj|c:\\users\\abu.arefin\\onedrive - save the children international\\desktop\\git\\c-basics\\basictutorial\\delegateexample\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{540EF481-1765-422B-9D37-7D686C562E05}|BasicTutorial.csproj|solutionrelative:delegateexample\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 317,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "enum.cs",
-              "DocumentMoniker": "C:\\Users\\abu.arefin\\OneDrive - Save the Children International\\Desktop\\git\\C-Basics\\BasicTutorial\\enum.cs",
-              "RelativeDocumentMoniker": "enum.cs",
-              "ToolTip": "C:\\Users\\abu.arefin\\OneDrive - Save the Children International\\Desktop\\git\\C-Basics\\BasicTutorial\\enum.cs",
-              "RelativeToolTip": "enum.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Title": "AnnonymasMethods.cs",
+              "DocumentMoniker": "C:\\Users\\abu.arefin\\OneDrive - Save the Children International\\Desktop\\git\\C-Basics\\BasicTutorial\\annonymasLamda\\AnnonymasMethods.cs",
+              "RelativeDocumentMoniker": "annonymasLamda\\AnnonymasMethods.cs",
+              "ToolTip": "C:\\Users\\abu.arefin\\OneDrive - Save the Children International\\Desktop\\git\\C-Basics\\BasicTutorial\\annonymasLamda\\AnnonymasMethods.cs",
+              "RelativeToolTip": "annonymasLamda\\AnnonymasMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T09:25:49.297Z",
+              "WhenOpened": "2024-12-11T05:11:54.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\abu.arefin\\OneDrive - Save the Children International\\Desktop\\git\\C-Basics\\BasicTutorial\\delegateExample\\Rectangle.cs",
+              "RelativeDocumentMoniker": "delegateExample\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\abu.arefin\\OneDrive - Save the Children International\\Desktop\\git\\C-Basics\\BasicTutorial\\delegateExample\\Rectangle.cs",
+              "RelativeToolTip": "delegateExample\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:58:30.216Z",
               "EditorCaption": ""
             },
             {
@@ -45,7 +62,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\abu.arefin\\OneDrive - Save the Children International\\Desktop\\git\\C-Basics\\BasicTutorial\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T06:19:38.447Z",
               "EditorCaption": ""
